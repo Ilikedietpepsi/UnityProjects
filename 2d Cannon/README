@@ -1,2 +1,11 @@
 Use up and down arrows to adjust the cannon angle.
 Use left and right angle to adjust the cannon fire power.
+
+In this project, I developed my own collision detection 
+method to detect the collision between the cannon ball 
+and the terrain or the collisions between cannon balls.
+
+I used a midpoint bisection method to generate the terrain.
+
+I used the verlet integration to implement the insects that
+are flying on the left of the screen.
